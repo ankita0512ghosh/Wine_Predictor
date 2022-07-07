@@ -18,3 +18,5 @@ This predictor shows the co-relation between different factors of a wine with th
 plots a graph to show different co-relation between different facotrs with each other. 
 To use the predictor, just add the different values of the given parameters at the end of the code under the variable custom_name. It will show whether the quality of your wine is good or bad.
 A good quality wine has quality value greater than or equal to 7.
+
+I got the basic idea of making this project from the blog https://www.analyticsvidhya.com/blog/2021/04/wine-quality-prediction-using-machine-learning/
