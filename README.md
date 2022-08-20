@@ -20,3 +20,7 @@ To use the predictor, just add the different values of the given parameters at t
 A good quality wine has quality value greater than or equal to 7.
 
 I got the basic idea of making this project from the blog https://www.analyticsvidhya.com/blog/2021/04/wine-quality-prediction-using-machine-learning/
+
+How to Use:
+
+To run the program, just copy the code on an IDE and run it.
